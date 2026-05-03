@@ -1,0 +1,4 @@
+clingo>=5.8.0
+matplotlib
+pandas
+numpy    
